@@ -17,7 +17,8 @@ A comunicação é bidirecional (Cliente ↔ Servidor) e utiliza Sockets TCP par
 
 ## ⚙️ Tecnologias Utilizadas
 
--   **Linguagem**: Java 11 (ou superior)
+-   **Linguagem**: Java 21
+-   **IDE**: IntelliJ
 -   **Rede**: Java Sockets (TCP/IP)
 -   **Criptografia**: `java.math.BigInteger` para os cálculos do algoritmo RSA.
 
